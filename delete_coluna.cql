@@ -1,0 +1,1 @@
+ALTER TABLE "my_keyspace"."user" DROP email;

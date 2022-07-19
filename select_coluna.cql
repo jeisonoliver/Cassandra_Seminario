@@ -1,0 +1,1 @@
+SELECT frist_name FROM "my_keyspace"."user";
